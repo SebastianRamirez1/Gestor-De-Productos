@@ -5,14 +5,14 @@ Implementa una arquitectura básica tipo **MVC (Modelo - Vista - Controlador)** 
 
 ## 📁 Estructura del Proyecto
 
-gestion_de_productos/
-├── dominio/ # Contiene las clases del dominio (modelo de datos)
-│ └── Producto.java
-├── controller/ # Contiene la lógica del negocio
-│ └── ServicioProducto.java
-└── vista/ # Contiene el menú e interacción con el usuario
-└── MenuGestorDeProductos.java
-└── GestorDeProductos.java
+gestion_de_productos/  
+├── dominio/ # Contiene las clases del dominio (modelo de datos)  
+│ └── Producto.java  
+├── controller/ # Contiene la lógica del negocio  
+│ └── ServicioProducto.java  
+└── vista/ # Contiene el menú e interacción con el usuario  
+└── MenuGestorDeProductos.java  
+└── GestorDeProductos.java  
 
 ## ✅ Funcionalidades
 
